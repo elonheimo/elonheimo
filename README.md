@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Looking for work opportunities! 
+
 [✨ LinkedIn](www.linkedin.com/in/johannes-elonheimo-ab0558178)
 <!--
 **elonheimo/elonheimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
