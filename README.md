@@ -1,9 +1,10 @@
 <h1 align="center">Hi there 👋, I'm Johannes Elonheimo</h1>
-<h3 align="center">Computer science student at the university of Helsinki</h3>
+<h3 align="center">Computer science student at the University of Helsinki</h3>
 <h3 align="center">Looking for employment opportunities. Check out my  <a href="www.linkedin.com/in/johannes-elonheimo-ab0558178" target="_blank" rel="noreferrer"> ✨ LinkedIn</a></h3>
 
 
 - 🔭 I’m currently working on [**cheminformatics for highschoolers**](https://github.com/elonheimo/keminformatiikka)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Project accepted for a grant of 2000€ from [fuug](https://fuug.fi/) (Finnish Unix User Group)
 
 💫 Things I've worked on in the past:
 - [Sensor data visualization and user license management solution](https://github.com/Anturit/Anturidatan_visualisointi) for Kymppiremontit Oy
