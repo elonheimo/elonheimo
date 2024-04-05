@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Johannes Elonheimo</h1>
-<h3 align="center">Computer science student at the University of Helsinki</h3>
-<h3 align="center">Looking for employment opportunities. Check out my  <a href="www.linkedin.com/in/johannes-elonheimo-ab0558178" target="_blank" rel="noreferrer"> ✨ LinkedIn</a></h3>
+<h3 align="center">Junior Data Engineer <a href="www.greenstep.fi" target="_blank" rel="noreferrer"> @Greenstep</a> and some CS studies on the side @University of Helsinki</h3>
+<h3 align="center"><a href="www.linkedin.com/in/johannes-elonheimo-ab0558178" target="_blank" rel="noreferrer"> ✨ LinkedIn</a></h3>
 
 
 - 🔭 I’m currently working on [**cheminformatics for highschoolers**](https://github.com/elonheimo/keminformatiikka). Python
