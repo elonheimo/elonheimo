@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Johannes Elonheimo</h1>
-<h3 align="center">Junior Data Engineer <a href="https://greenstep.fi" target="_blank" rel="noreferrer"> @Greenstep</a> and some CS studies on the side @University of Helsinki</h3>
+<h3 align="center">Junior Data Engineer <a href="https://greenstep.com" target="_blank" rel="noreferrer"> @Greenstep</a> and some CS studies on the side @University of Helsinki</h3>
 <h3 align="center"><a href="https://www.linkedin.com/in/johannes-elonheimo-ab0558178" target="_blank" rel="noreferrer"> ✨ LinkedIn</a></h3>
 
 
