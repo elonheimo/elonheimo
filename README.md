@@ -1,12 +1,10 @@
 <h1 align="center">Hi there 👋, I'm Johannes Elonheimo</h1>
-<h3 align="center">Junior Data Engineer <a href="https://greenstep.com" target="_blank" rel="noreferrer"> @Greenstep</a> and some CS studies on the side @University of Helsinki</h3>
+<h3 align="center">Data Engineer <a href="https://www.advian.fi/en/" target="_blank" rel="noreferrer"> @Advian</a> and some CS&ISM studies on the side</h3>
 <h3 align="center"><a href="https://www.linkedin.com/in/johannes-elonheimo-ab0558178" target="_blank" rel="noreferrer"> ✨ LinkedIn</a></h3>
 
-
-- 🔭 I’m currently working on [**cheminformatics for highschoolers**](https://github.com/elonheimo/keminformatiikka). Python
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Project accepted for a grant of 2000€ from [fuug](https://fuug.fi/) (Finnish Unix User Group)
-
 💫 Things I've worked on in the past:
+- [**cheminformatics for highschoolers**](https://github.com/elonheimo/keminformatiikka). Python
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Project accepted for a grant of 2000€ from [fuug](https://fuug.fi/) (Finnish Unix User Group)
 - [Sensor data visualization and user license management solution](https://github.com/Anturit/Anturidatan_visualisointi) for Kymppiremontit Oy. JavaScript
 - [Project birdsnest](https://github.com/elonheimo/birdnest) live info of mock drone violations done with websockets. JavaScript
 - [Compression algorithms](https://github.com/elonheimo/compression-algos) bit operation implementation and comparison of Lempel-Ziv and Huffman compression. Python
